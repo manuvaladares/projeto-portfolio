@@ -24,31 +24,31 @@ body {
     margin: 10% 15%;
 }
 
-.conteiner-secao{
+.conteiner__secao{
     width: 615px;
     display: flex;
     flex-direction: column;
     gap: 40px;
 }
 
-.titulo {
+.conteiner__secao__titulo {
     font-size: 36px;
     font-family: 'Krona One', sans-serif;
     
 }
 
-.paragrafo {
+.conteiner__secao__paragrafo {
     font-size: 24px;
     font-family: 'Montserrat', sans-serif;
     text-align: justify;
 }
 
-.botoes {
+.conteiner__secao__botoes {
     display: flex;
     justify-content: space-between;
 }
 
-.botoes_links {
+.conteiner__secao__botoes__links {
     background-color: #22d4fd;
     width: 280px;
     text-align: center;
